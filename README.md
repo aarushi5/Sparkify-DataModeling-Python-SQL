@@ -1,4 +1,3 @@
-# Sparkify-DataModeling-Python-SQL
 Introduction
 -------------
 Sparkify is a startup company which provides music streaming service to the users through their app. The song information (song id, song name, artist etc.) and the user activity data (user id, user action, etc.) from the app are currently collected and stored in the form of JSON files.
